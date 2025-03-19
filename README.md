@@ -85,4 +85,5 @@ actually avoiding it. Reducing its memory helped to a better inference timing an
 ## Gallery
 
 <img src="imgs/1.jpg"></img>
+<img src="imgs/2.jpg"></img>
 <video src="imgs/video.mp4" controls></video>
