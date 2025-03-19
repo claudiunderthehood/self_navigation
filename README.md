@@ -86,8 +86,6 @@ actually avoiding it. Reducing its memory helped to a better inference timing an
 
 <img src="imgs/1.jpg"></img>
 <img src="imgs/2.jpg"></img>
-<video src="imgs/video.mp4" controls></video>
-
 
 https://github.com/user-attachments/assets/ba1653da-4079-4778-98bf-5b215bbf0d4f
 
